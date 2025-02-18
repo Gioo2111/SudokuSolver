@@ -80,3 +80,7 @@ button:hover{
     background-color: #9B7EBD;
     transition: all 0.2s ease-in-out;
 }
+.invalid {
+    background-color: #5c092183;
+    transition: all 0.2s ease-in-out;
+}
